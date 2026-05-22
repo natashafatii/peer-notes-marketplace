@@ -121,7 +121,7 @@ git clone https://github.com/natashafatiii/peer-notes-marketplace.git
 ## 2️⃣ Open Project
 
 ```bash
-cd notes-marketplace-flutter
+cd peer-notes-marketplace
 ```
 
 ---
