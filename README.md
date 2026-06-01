@@ -217,31 +217,6 @@ git push origin feature/AmazingFeature
 
 ---
 
-# 🏷️ GitHub Topics
-
-```text
-flutter
-supabase
-notes-app
-marketplace
-mobile-app
-dart
-academic-notes
-file-upload
-credit-system
-premium-notes
-student-app
-e-learning
-flutter-app
-supabase-auth
-supabase-storage
-```
-
-
-
-
-
-
 # ⭐ Show Your Support
 
 If you found this project useful, give it a ⭐ on GitHub!
