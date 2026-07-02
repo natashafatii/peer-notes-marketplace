@@ -113,7 +113,7 @@ A complete **Flutter-based Notes Marketplace application** where students can up
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/natashafatiii/peer-notes-marketplace.git
+git clone https://github.com/natashafatii/peer-notes-marketplace.git
 ```
 
 ---
